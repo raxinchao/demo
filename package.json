@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-283",
+  "version": "1.0.0",
+  "description": "this is a chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godgunman/cise-train-chatbot-283.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "ggm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godgunman/cise-train-chatbot-283/issues"
+  },
+  "homepage": "https://github.com/godgunman/cise-train-chatbot-283#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
